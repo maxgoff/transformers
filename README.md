@@ -18,7 +18,7 @@ limitations under the License.
     <br>
     <img src="https://raw.githubusercontent.com/huggingface/transformers/master/docs/source/imgs/transformers_logo_name.png" width="400"/>
     <br>
-<p>
+<p>  FORKED for experimentation purposes
 <p align="center">
     <a href="https://circleci.com/gh/huggingface/transformers">
         <img alt="Build" src="https://img.shields.io/circleci/build/github/huggingface/transformers/master">
